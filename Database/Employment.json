@@ -1,0 +1,248 @@
+{
+  "Intern": {
+    "Dishwasher": {
+      "pay": 150,
+      "requirement": {
+        "type": "None",
+        "major": ""
+      }
+    },
+    "Mechanical Engineering Intern": {
+      "pay": 350,
+      "requirement": {
+        "type": "Diploma",
+        "major": "Mechanical Engineering"
+      }
+    },
+    "Civil Engineering Intern": {
+      "pay": 380,
+      "requirement": {
+        "type": "Diploma",
+        "major": "Civil Engineering"
+      }
+    },
+    "Electrical Engineering Intern": {
+      "pay": 450,
+      "requirement": {
+        "type": "Diploma",
+        "major": "Electrical Engineering"
+      }
+    },
+    "Computer Science Intern": {
+      "pay": 720,
+      "requirement": {
+        "type": "Diploma",
+        "major": "Computer Science"
+      }
+    },
+    "Lawyer": {
+      "pay": 960,
+      "requirement": {
+        "type": "Diploma",
+        "major": "Law"
+      }
+    }
+  },
+  "Junior": {
+    "Jr. Manager": {
+      "pay": 1000,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Management"
+      }
+    },
+    "Jr. Economist": {
+      "pay": 1100,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Economics"
+      }
+    },
+    "Jr. Mechanical Engineer": {
+      "pay": 1350,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Mechanical Engineering"
+      }
+    },
+    "Jr. Civil Engineer": {
+      "pay": 1420,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Civil Engineering"
+      }
+    },
+    "Jr. Electrical Engineer": {
+      "pay": 1500,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Electrical Engineering"
+      }
+    },
+    "Jr. Financial Officer": {
+      "pay": 1600,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Finance"
+      }
+    },
+    "Jr. Accountant": {
+      "pay": 1650,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Accountancy"
+      }
+    },
+    "Jr. Denist": {
+      "pay": 1700,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Dentistry"
+      }
+    },
+    "Jr. Developer": {
+      "pay": 2200,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Computer Science"
+      }
+    },
+    "Nurse": {
+      "pay": 2350,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Medical Science"
+      }
+    },
+    "Jr. Judge": {
+      "pay": 3200,
+      "requirement": {
+        "type": "Bachelor",
+        "major": "Law"
+      }
+    }
+  },
+  "Senior": {
+    "Sr. Manager": {
+      "pay": 1800,
+      "requirement": {
+        "type": "Master",
+        "major": "Management"
+      }
+    },
+    "Sr. Economist": {
+      "pay": 1850,
+      "requirement": {
+        "type": "Master",
+        "major": "Economics"
+      }
+    },
+    "Sr. Mechanical Engineer": {
+      "pay": 2000,
+      "requirement": {
+        "type": "Master",
+        "major": "Mechanical Engineering"
+      }
+    },
+    "Sr. Civil Engineer": {
+      "pay": 2050,
+      "requirement": {
+        "type": "Master",
+        "major": "Civil Engineering"
+      }
+    },
+    "Sr. Electrical Engineer": {
+      "pay": 2100,
+      "requirement": {
+        "type": "Master",
+        "major": "Electrical Engineering"
+      }
+    },
+    "Sr. Financial Officer": {
+      "pay": 2200,
+      "requirement": {
+        "type": "Master",
+        "major": "Finance"
+      }
+    },
+    "Sr. Accountant": {
+      "pay": 2300,
+      "requirement": {
+        "type": "Master",
+        "major": "Accountancy"
+      }
+    },
+    "Sr. Denist": {
+      "pay": 2800,
+      "requirement": {
+        "type": "Master",
+        "major": "Dentistry"
+      }
+    },
+    "Sr. Developer": {
+      "pay": 3000,
+      "requirement": {
+        "type": "Master",
+        "major": "Computer Science"
+      }
+    },
+    "Doctor": {
+      "pay": 3700,
+      "requirement": {
+        "type": "Master",
+        "major": "Medical Science"
+      }
+    },
+    "Sr. Judge": {
+      "pay": 5000,
+      "requirement": {
+        "type": "Master",
+        "major": "Law"
+      }
+    }
+  },
+  "Executive": {
+    "Chief Management Officer": {
+      "pay": 4000,
+      "requirement": {
+        "type": "Master",
+        "major": "Management"
+      }
+    },
+    "Chief Financial Officer": {
+      "pay": 5000,
+      "requirement": {
+        "type": "Master",
+        "major": "Finance"
+      }
+    },
+    "Chartered Accountant": {
+      "pay": 5400,
+      "requirement": {
+        "type": "Master",
+        "major": "Accountancy"
+      }
+    },
+    "Chief Technical Officer": {
+      "pay": 4800,
+      "requirement": {
+        "type": "Master",
+        "major": "Computer Science"
+      }
+    },
+    "Surgeon": {
+      "pay": 6200,
+      "requirement": {
+        "type": "Master",
+        "major": "Medical Science"
+      }
+    },
+    "Chief Justice": {
+      "pay": 9000,
+      "requirement": {
+        "type": "Master",
+        "major": "Law"
+      }
+    }
+  }
+}

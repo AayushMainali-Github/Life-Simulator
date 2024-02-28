@@ -1,0 +1,246 @@
+{
+  "TierA": {
+    "Car Wash": {
+      "cost": 12500,
+      "income": 70
+    },
+    "Crafts Store": {
+      "cost": 11000,
+      "income": 120
+    },
+    "House Cleaning": {
+      "cost": 11000,
+      "income": 80
+    },
+    "Virtual Assistant": {
+      "cost": 18000,
+      "income": 120
+    },
+    "Social Media Management": {
+      "cost": 19500,
+      "income": 90
+    },
+    "Freelance Writing": {
+      "cost": 14000,
+      "income": 100
+    },
+    "Gardening": {
+      "cost": 18000,
+      "income": 100
+    },
+    "Tutoring": {
+      "cost": 22500,
+      "income": 150
+    },
+    "Pet Services": {
+      "cost": 15500,
+      "income": 110
+    },
+    "Subscription Box": {
+      "cost": 15500,
+      "income": 130
+    },
+    "Online Course Creation": {
+      "cost": 22000,
+      "income": 170
+    },
+    "Event Planning": {
+      "cost": 19000,
+      "income": 160
+    },
+    "Dropshipping": {
+      "cost": 13000,
+      "income": 140
+    },
+    "Mobile Repair": {
+      "cost": 19500,
+      "income": 150
+    },
+    "Catering": {
+      "cost": 22000,
+      "income": 180
+    }
+  },
+  "TierB": {
+    "Coffee Shop": {
+      "cost": 150000,
+      "income": 900
+    },
+    "Language Tutoring": {
+      "cost": 97500,
+      "income": 800
+    },
+    "Graphic Design": {
+      "cost": 162000,
+      "income": 800
+    },
+    "Photography": {
+      "cost": 120000,
+      "income": 800
+    },
+    "Food Truck": {
+      "cost": 137500,
+      "income": 800
+    },
+    "Food Delivery": {
+      "cost": 154000,
+      "income": 850
+    },
+    "Clothing Boutique": {
+      "cost": 168000,
+      "income": 850
+    },
+    "Fitness Coaching": {
+      "cost": 143000,
+      "income": 750
+    },
+    "Home Renovation": {
+      "cost": 144000,
+      "income": 880
+    },
+    "Airbnb Management": {
+      "cost": 147500,
+      "income": 950
+    },
+    "E-commerce Store": {
+      "cost": 180000,
+      "income": 950
+    },
+    "Digital Marketing": {
+      "cost": 123500,
+      "income": 1000
+    },
+    "Fitness Classes": {
+      "cost": 139500,
+      "income": 1000
+    },
+    "App Development": {
+      "cost": 171500,
+      "income": 1050
+    }
+  },
+  "TierC": {
+    "Bakery": {
+      "cost": 1800000,
+      "income": 4200
+    },
+    "Professional Organizing": {
+      "cost": 1800000,
+      "income": 4200
+    },
+    "Pet Grooming": {
+      "cost": 1750000,
+      "income": 4800
+    },
+    "Restaurant": {
+      "cost": 1690000,
+      "income": 4500
+    },
+    "Event Venue Rental": {
+      "cost": 2030000,
+      "income": 5000
+    },
+    "Craft Brewery": {
+      "cost": 2365000,
+      "income": 4000
+    },
+    "Fitness Studio": {
+      "cost": 2220000,
+      "income": 5500
+    },
+    "Custom Furniture": {
+      "cost": 1785000,
+      "income": 5500
+    },
+    "Software Development": {
+      "cost": 2165000,
+      "income": 5500
+    },
+    "Import/Export Business": {
+      "cost": 1890000,
+      "income": 6000
+    },
+    "Renewable Energy": {
+      "cost": 2250000,
+      "income": 6000
+    },
+    "Boutique Hotel": {
+      "cost": 1950000,
+      "income": 5000
+    },
+    "Organic Farming": {
+      "cost": 1985000,
+      "income": 6300
+    },
+    "Eco-friendly Cleaning": {
+      "cost": 2225000,
+      "income": 4500
+    },
+    "VR Arcade": {
+      "cost": 2430000,
+      "income": 6500
+    }
+  },
+  "TierD": {
+    "Biotech R&D": {
+      "cost": 6200000,
+      "income": 13500
+    },
+    "Satellite Launch": {
+      "cost": 6960000,
+      "income": 16800
+    },
+    "Luxury Resort": {
+      "cost": 7500000,
+      "income": 20250
+    },
+    "Pharma Manufacturing": {
+      "cost": 8910000,
+      "income": 23600
+    },
+    "Real Estate Development": {
+      "cost": 10080000,
+      "income": 27000
+    },
+    "Venture Capital": {
+      "cost": 12600000,
+      "income": 30300
+    },
+    "Superyacht Charter": {
+      "cost": 14970000,
+      "income": 33750
+    },
+    "Aerospace Manufacturing": {
+      "cost": 15000000,
+      "income": 37125
+    },
+    "Robotics Development": {
+      "cost": 18900000,
+      "income": 40500
+    },
+    "Renewable Energy Production": {
+      "cost": 21300000,
+      "income": 43875
+    },
+    "High-frequency Trading": {
+      "cost": 22470000,
+      "income": 47250
+    },
+    "Theme Park": {
+      "cost": 25500000,
+      "income": 50625
+    },
+    "Luxury Car Dealership": {
+      "cost": 26400000,
+      "income": 54000
+    },
+    "Space Exploration": {
+      "cost": 29700000,
+      "income": 57375
+    },
+    "Medical Equipment Manufacturing": {
+      "cost": 27000000,
+      "income": 60750
+    }
+  }
+}

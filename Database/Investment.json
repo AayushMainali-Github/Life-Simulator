@@ -1,0 +1,214 @@
+{
+  "Crypto": {
+    "Bitcoin": {
+      "price": 51008,
+      "total": 19630000
+    },
+    "Ethereum": {
+      "price": 2947.63,
+      "total": 120200000
+    },
+    "Binance Coin": {
+      "price": 379.53,
+      "total": 153860000
+    },
+    "Solana": {
+      "price": 101.28,
+      "total": 440960000
+    },
+    "Ripple": {
+      "price": 0.54,
+      "total": 54560000000
+    },
+    "Cardano": {
+      "price": 0.58,
+      "total": 35150000000
+    },
+    "Avalanche": {
+      "price": 36.15,
+      "total": 367800000
+    },
+    "TRON": {
+      "price": 0.54,
+      "total": 88020000000
+    },
+    "Dogecoin": {
+      "price": 0.08,
+      "total": 143190000000
+    },
+    "Chainlink": {
+      "price": 18.33,
+      "total": 587100000
+    },
+    "Polkadot": {
+      "price": 7.72,
+      "total": 1330000000
+    },
+    "Polygon": {
+      "price": 1.0,
+      "total": 9280000000
+    },
+    "Uniswap": {
+      "price": 11.83,
+      "total": 753770000
+    },
+    "Litecoin": {
+      "price": 69.43,
+      "total": 74240000
+    },
+    "Monero": {
+      "price": 124.46,
+      "total": 18400000
+    }
+  },
+  "Stocks": {
+    "Sapple": {
+      "price": 4167,
+      "total": 2000000000
+    },
+    "Loogel": {
+      "price": 13200,
+      "total": 600000000
+    },
+    "Emajon": {
+      "price": 19029,
+      "total": 350000000
+    },
+    "Ecrofoft": {
+      "price": 253000,
+      "total": 20000000
+    },
+    "Fetfix": {
+      "price": 642.43,
+      "total": 4300000000
+    },
+    "Sikee": {
+      "price": 30.23,
+      "total": 56800000000
+    },
+    "Zamtung": {
+      "price": 1036,
+      "total": 2600000000
+    },
+    "Tyluz": {
+      "price": 985.6,
+      "total": 1897000000
+    },
+    "Bluetock": {
+      "price": 47801,
+      "total": 39000000
+    },
+    "Zoosle": {
+      "price": 3.54,
+      "total": 98200000000
+    }
+  },
+  "Forex": {
+    "Nepalese Rupee": {
+      "price": 0.0075,
+      "total": 10000000000000
+    },
+    "Euro": {
+      "price": 1.08,
+      "total": 100000000000
+    },
+    "Pound Sterling": {
+      "price": 1.26,
+      "total": 100000000000
+    },
+    "Indian Rupee": {
+      "price": 0.012,
+      "total": 1000000000000
+    },
+    "Nigerian Naira": {
+      "price": 0.00062,
+      "total": 100000000000000
+    },
+    "Russian Ruble": {
+      "price": 0.0107,
+      "total": 1000000000000
+    },
+    "Canadian Dollar": {
+      "price": 0.74,
+      "total": 100000000000
+    },
+    "Danish Krone": {
+      "price": 0.145,
+      "total": 100000000000
+    },
+    "Mongolian Tugrik": {
+      "price": 0.00028,
+      "total": 100000000000000
+    },
+    "New Zealand Dollar": {
+      "price": 0.6211,
+      "total": 100000000000
+    },
+    "Chinese Yuan": {
+      "price": 0.138,
+      "total": 100000000000
+    },
+    "Japanese Yen": {
+      "price": 0.0066,
+      "total": 10000000000000
+    },
+    "Icelandic Króna": {
+      "price": 0.0072,
+      "total": 10000000000000
+    },
+    "Egyptian Pound": {
+      "price": 0.0324,
+      "total": 1000000000000
+    },
+    "Kazakhstani Tenge": {
+      "price": 0.00221,
+      "total": 10000000000000
+    },
+    "Australian Dollar": {
+      "price": 0.653,
+      "total": 100000000000
+    }
+  },
+  "Commodity": {
+    "Gold": {
+      "price": 1259,
+      "total": 899000000
+    },
+    "Diamond": {
+      "price": 25600,
+      "total": 37000000
+    },
+    "Silver": {
+      "price": 906,
+      "total": 1000000000
+    },
+    "Rice": {
+      "price": 0.79,
+      "total": 39560000000
+    },
+    "Oil": {
+      "price": 19.42,
+      "total": 900000000
+    },
+    "Iron": {
+      "price": 120,
+      "total": 240000000
+    },
+    "Steel": {
+      "price": 105,
+      "total": 190000000
+    },
+    "Copper": {
+      "price": 8.97,
+      "total": 12956000000
+    },
+    "Platinium": {
+      "price": 689,
+      "total": 1300000000
+    },
+    "Gas": {
+      "price": 26.3,
+      "total": 825600000
+    }
+  }
+}

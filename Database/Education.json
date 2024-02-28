@@ -1,0 +1,166 @@
+{
+  "Diploma": {
+    "Management": {
+      "time": 12,
+      "cost": 15000
+    },
+    "Economics": {
+      "time": 12,
+      "cost": 20000
+    },
+    "Mechanical Engineering": {
+      "time": 24,
+      "cost": 35000
+    },
+    "Civil Engineering": {
+      "time": 24,
+      "cost": 36000
+    },
+    "Electrical Engineering": {
+      "time": 24,
+      "cost": 40000
+    },
+    "Finance": {
+      "time": 24,
+      "cost": 45000
+    },
+    "Accountancy": {
+      "time": 24,
+      "cost": 48000
+    },
+    "Dentistry": {
+      "time": 24,
+      "cost": 50000
+    },
+    "Computer Science": {
+      "time": 36,
+      "cost": 75000
+    },
+    "Medical Science": {
+      "time": 36,
+      "cost": 80000
+    },
+    "Law": {
+      "time": 48,
+      "cost": 100000
+    }
+  },
+  "Bachelor": {
+    "Management": {
+      "time": 24,
+      "cost": 40000
+    },
+    "Economics": {
+      "time": 24,
+      "cost": 50000
+    },
+    "Mechanical Engineering": {
+      "time": 36,
+      "cost": 70000
+    },
+    "Civil Engineering": {
+      "time": 36,
+      "cost": 70000
+    },
+    "Electrical Engineering": {
+      "time": 36,
+      "cost": 74000
+    },
+    "Finance": {
+      "time": 36,
+      "cost": 80000
+    },
+    "Accountancy": {
+      "time": 36,
+      "cost": 85000
+    },
+    "Dentistry": {
+      "time": 36,
+      "cost": 92000
+    },
+    "Computer Science": {
+      "time": 48,
+      "cost": 125000
+    },
+    "Medical Science": {
+      "time": 48,
+      "cost": 130000
+    },
+    "Law": {
+      "time": 60,
+      "cost": 160000
+    }
+  },
+  "Master": {
+    "Management": {
+      "time": 24,
+      "cost": 90000
+    },
+    "Economics": {
+      "time": 24,
+      "cost": 95000
+    },
+    "Mechanical Engineering": {
+      "time": 36,
+      "cost": 100000
+    },
+    "Civil Engineering": {
+      "time": 36,
+      "cost": 110000
+    },
+    "Electrical Engineering": {
+      "time": 36,
+      "cost": 120000
+    },
+    "Finance": {
+      "time": 36,
+      "cost": 125000
+    },
+    "Accountancy": {
+      "time": 36,
+      "cost": 130000
+    },
+    "Dentistry": {
+      "time": 48,
+      "cost": 150000
+    },
+    "Computer Science": {
+      "time": 48,
+      "cost": 190000
+    },
+    "Medical Science": {
+      "time": 60,
+      "cost": 250000
+    },
+    "Law": {
+      "time": 72,
+      "cost": 300000
+    }
+  },
+  "Phd": {
+    "Management": {
+      "time": 36,
+      "cost": 180000
+    },
+    "Finance": {
+      "time": 48,
+      "cost": 300000
+    },
+    "Accountancy": {
+      "time": 48,
+      "cost": 350000
+    },
+    "Computer Science": {
+      "time": 48,
+      "cost": 400000
+    },
+    "Medical Science": {
+      "time": 60,
+      "cost": 500000
+    },
+    "Law": {
+      "time": 84,
+      "cost": 800000
+    }
+  }
+}

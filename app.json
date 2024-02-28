@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Life Simulator",
+    "slug": "Life-Simulator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F9FFB2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F9FFB2"
+      },
+      "package": "com.aayushmainali.lifesimulator"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "95cacbe0-8281-4fc0-a1c9-91acc05491ae"
+      }
+    }
+  }
+}
